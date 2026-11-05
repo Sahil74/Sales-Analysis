@@ -13,6 +13,9 @@ I wanted to make the data easier to understand by turning it into charts and an 
 * **State Performance:** Looked at the top five states by total sales.
 * **Interactive Filters:** Added slicers for state, product category and year to explore different parts of the data.
 
+![Db](Dashboard.png)
+
+
 ## Tools and Skills
 
 * Microsoft Excel
